@@ -1,0 +1,2 @@
+../Core/Src/comunicationProtocol.c:3:10:crc16	4
+../Core/Src/comunicationProtocol.c:21:10:build_frame	1
